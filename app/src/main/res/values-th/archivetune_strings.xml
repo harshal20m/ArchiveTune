@@ -60,8 +60,6 @@
     <string name="history_remote_loading">กำลังซิงค์ประวัติระยะไกล</string>
     <string name="history_remote_empty_title">ไม่มีประวัติการใช้งานจากระยะไกล</string>
     <string name="history_remote_empty_desc">ประวัติการรับชมที่ซิงค์ไว้ของคุณจะปรากฏที่นี่หลังจากที่คุณฟังเพลงบน YouTube Music แล้ว</string>
-<<<<<<< HEAD
-=======
     <string name="music_recognition_notification_processing_text">การจับคู่ลายนิ้วมือที่ใช้ในการบันทึกเสียง</string>
     <string name="music_recognition_notification_release">ปล่อยแล้ว: %1$s</string>
     <string name="music_recognition_notification_no_match_text">โปรดเปิดเพลงให้ชัดเจน จากนั้นจึงลองระบุเพลงอีกครั้ง</string>
@@ -140,5 +138,4 @@
     <string name="aod_customize_controls">การควบคุม</string>
     <string name="aod_customize_control_style">รูปแบบการควบคุม</string>
     <string name="aod_customize_control_size">ขนาดการควบคุม</string>
->>>>>>> translate
 </resources>
