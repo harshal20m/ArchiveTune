@@ -152,6 +152,13 @@
         <item quantity="one">1 saniye</item>
         <item quantity="other">%d saniye</item>
     </plurals>
+<<<<<<< HEAD
+=======
+    <string name="player_stream_client">Oynatma istemcisi</string>
+    <string name="player_stream_client_desc">Akışları almak için hangi oynatma kaynağının kullanılacağını belirler</string>
+    <string name="player_stream_client_web_remix">Web Remiksi</string>
+    <string name="player_stream_client_web_remix_desc">Hız pahasına genişletilmiş format desteği. JavaScript imza şifre çözme işlemi ~5-10 saniyelik bir başlatma gecikmesine neden olur.</string>
+>>>>>>> translate
     <string name="settings_section_player_content">Oyuncu &amp; İçeriği</string>
     <string name="similar_content">Benzer içerik</string>
     <string name="year_in_music">Müzik Yılı</string>
@@ -503,6 +510,10 @@
     <string name="audio_crossfade_seconds">%1$s sn</string>
     <string name="crossfade_gapless_title">Boşluk albümleri atla</string>
     <string name="crossfade_gapless_description">Aynı albümden ardışık şarkılar arasında çapraz geçiş kullanmayın.</string>
+<<<<<<< HEAD
+=======
+    <string name="player_stream_client_archivetune_extractor">ArchiveTune Çıkarıcı</string>
+>>>>>>> translate
     <string name="settings_appearance_subtitle">Temalar, düzen ve görsel stiller</string>
     <string name="settings_playback_title">Playback</string>
     <string name="settings_playback_subtitle">Ses davranışı, çapraz geçiş ve arkaplan oynatması</string>
@@ -515,6 +526,10 @@
     <string name="settings_lyrics_subtitle">Şarkı sözü sağlayıcıları, önyükleme ve çeviri</string>
     <string name="settings_content_subtitle">Dil, ülke ve öneri varsayılanları</string>
     <string name="settings_internet_subtitle">Proxy, DNS ve ağ oynatma davranışı</string>
+<<<<<<< HEAD
+=======
+    <string name="settings_po_token_subtitle">Oynatma doğrulaması ve ziyaretçi verileri</string>
+>>>>>>> translate
     <string name="settings_storage_subtitle">Önbellek, indirilenler ve çevrimdışı depolama</string>
     <string name="settings_updates_subtitle">Sürüm, sürüm notları ve güncelleme kanalı</string>
     <string name="settings_about_subtitle">Uygulama bilgisi, lisanlar ve katkıda bulunanlar</string>
@@ -627,6 +642,22 @@
     <string name="ai_custom_endpoint">Özel uç nokta</string>
     <string name="ai_api_key">API anahtarı</string>
     <string name="ai_api_key_missing">YZ özelliklerinin çalışabilmesinde gereklidir.</string>
+<<<<<<< HEAD
+=======
+    <string name="mori_cipher_status_refreshing">Yenileniyor</string>
+    <string name="mori_cipher_status_degraded">Önbelleğe alınmış konfigürasyon kullanılıyor</string>
+    <string name="mori_cipher_status_uninitialized">Başlatılamadı</string>
+    <string name="mori_cipher_player_id">Oynatıcı konfigürasyonu</string>
+    <string name="mori_cipher_last_updated">En son güncellenen</string>
+    <string name="mori_cipher_refresh">Konfigürasyonu yenile</string>
+    <string name="mori_cipher_refresh_remaining">%1$d elle yenileme kaldı</string>
+    <string name="mori_cipher_rate_limit_countdown">%1$s\'de tekrardan mevcut olacak</string>
+    <string name="mori_cipher_automatic_updates">Otomatik güncellemeler</string>
+    <string name="mori_cipher_automatic_updates_description">ArchiveTune mevcut YouTube oynatıcı konfigürasyonunu her 6 saatte bir ve şifre çözme sorunlarının ardından yeniler.</string>
+    <string name="mori_cipher_refresh_success">Oynatıcı konfigürasyonu güncellendi</string>
+    <string name="mori_cipher_refresh_failed">Oynatıcı konfigürasyonu güncellenemez</string>
+    <string name="mori_cipher_rate_limited">Elle yenileme limiti doldu</string>
+>>>>>>> translate
     <string name="ai_translation_menu">YZ Çeviri</string>
     <string name="about_lead_developer">Baş Geliştirici</string>
     <string name="about_archive_tune_team">Ekip</string>
@@ -646,6 +677,10 @@
     <string name="about_content_desc_telegram">Telegram</string>
     <string name="about_content_desc_donate">Bağış yapın</string>
     <string name="aod_mode">Her zaman açık ekran modu</string>
+<<<<<<< HEAD
+=======
+    <string name="aod_mode_exit">Her zaman açık ekrandan çık</string>
+>>>>>>> translate
     <string name="playlist_source_local">Yerel</string>
     <string name="playlist_source_online">Çevrimiçi</string>
     <string name="import_source_local">Yerel Kütüphane</string>
